@@ -1,3 +1,5 @@
+
+
 @import "bootstrap";
 
 .clear {
@@ -38,6 +40,8 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'robotoblack';
+  font-weight: bold;
 }
 
 header {
@@ -46,4 +50,13 @@ header {
 
 hr {
   clear:both;
+}
+
+
+h1 {
+  font-family: 'robotoblack';
+}
+
+h2 {
+  font-family: 'robotoblack'; 
 }
